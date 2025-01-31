@@ -8,4 +8,12 @@ Examine the disparities in COVID-19 death rates among racio-ethnic groups, age &
 ## Dashboard
 ![Race   Ethnicity](https://github.com/user-attachments/assets/ac66e427-7b40-4056-9a62-d5c38f47078d)
 
+![Age](https://github.com/user-attachments/assets/a421762c-2fe8-448b-bf1f-96be0d65c556) 
+
+![Gender](https://github.com/user-attachments/assets/3ac87246-bd56-46a3-b00d-b99fed1eb4c6) 
+
+![Age   Race](https://github.com/user-attachments/assets/c38ad663-4e4e-48fc-a9ba-84f9fc0ff80c) 
+
+
+
 
