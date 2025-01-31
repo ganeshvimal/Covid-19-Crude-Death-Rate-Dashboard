@@ -14,6 +14,11 @@ Examine the disparities in COVID-19 death rates among racio-ethnic groups, age &
 
 ![Age   Race](https://github.com/user-attachments/assets/c38ad663-4e4e-48fc-a9ba-84f9fc0ff80c) 
 
+## Results and Insights
+The analysis of COVID-19 death rates across various racial and ethnic groups in the U.S. from 2020 to 2024 reveals significant disparities, with marginalized communities experiencing disproportionately higher mortality rates. These disparities are largely attributed to systemic factors such as reduced access to healthcare, lower income levels, and adverse living conditions.
+
+The data highlights that COVID-19 crude death rates are significantly higher among males compared to females, indicating gender-based vulnerability. Additionally, death rates increase sharply with age, with the elderly (75+ years) being the most affected. These insights emphasize the need for targeted interventions focusing on older adults and addressing gender disparities in COVID-19 outcomes.
+
 
 
 
